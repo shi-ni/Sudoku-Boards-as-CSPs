@@ -23,6 +23,14 @@ https://github.com/shi-ni/Sudoku-Boards-as-CSPs
 
 ## Run
 
+PowerShell one-command launcher:
+
+```powershell
+./run.ps1
+```
+
+You can still run with Python directly:
+
 ```bash
 python main.py
 ```
